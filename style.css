@@ -26,6 +26,10 @@ body{
     height: 370px;
 }
 
+#leatter {
+    postion:absloute;
+    font-size : 30px;
+}
 #pic{
     width: 180px;
     height: 180px;
