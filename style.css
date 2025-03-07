@@ -26,6 +26,10 @@ body{
     height: 370px;
 }
 
+#letter{
+    font-size: larger;
+}
+
 
 #pic{
     width: 180px;
