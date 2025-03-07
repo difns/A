@@ -23,13 +23,13 @@ function no() {
 function hate(){
     const read2 = document.getElementById('read2')
     pic.src = 'khóc.gif';
-    title.innerHTML = 'Ok so you hate me !';
+    title.innerHTML = 'Ok U hate me ?!';
     options2.style.display = 'none'; 
     read2.style.display ='block';
 }
 
 function fuck() {
-    alert('fu**k you i hate you to 」(￣▽￣」)')
+    alert('I hate you too (￣▽￣)')
 }
 
 function letter(){
